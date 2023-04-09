@@ -10,7 +10,9 @@ Some of my hobbies include:
 - Watching TV shows
 - Coding
 
-Currently, I'm watching [The Last of Us](./images/show.png), which is so far pretty good.
+Currently, I'm watching [Lucky Hank](./images/show2.jpeg), which is so far pretty good.
+
+I also reccomend watching ![The Last of Us](./images/show.png), which is a pretty close adaptation to the video game.
 
 ## And a Programmer
 
