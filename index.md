@@ -12,7 +12,7 @@ Some of my hobbies include:
 
 Currently, I'm watching [Lucky Hank](./images/show2.jpeg), which is so far pretty good.
 
-I also reccomend watching ![The Last of Us](./images/show.png | width=100), which is a pretty close adaptation to the video game.
+I also reccomend watching <img src="./images/show.png" alt = "The Last of Us" width="250">, which is a pretty close adaptation to the video game.
 
 ## And a Programmer
 
