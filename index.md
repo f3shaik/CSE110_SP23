@@ -13,6 +13,7 @@ Some of my hobbies include:
 Currently, I'm watching [Lucky Hank](./images/show2.jpeg), which is so far pretty good.
 
 Another show on my watchlist is: 
+
 <img src="./images/show.png" alt = "The Last of Us" height="250">
 
 ## And a Programmer
